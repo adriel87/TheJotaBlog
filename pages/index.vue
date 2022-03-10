@@ -1,11 +1,7 @@
 <template>
-  <Tutorial />
+  <body>
+    <a href="/fun">prueba</a>
+    <h1>no se yo</h1>
+     <NuxtLink to="/fun">fun page</NuxtLink>
+  </body>
 </template>
-
-<script lang="ts">
-import Vue from 'vue'
-
-export default Vue.extend({
-  name: 'IndexPage',
-})
-</script>
