@@ -1,7 +1,6 @@
 <template>
-  <body>
-    <a href="/fun">prueba</a>
-    <h1>no se yo</h1>
-     <NuxtLink to="/fun">fun page</NuxtLink>
-  </body>
+  <main>
+    <h1>hola chicos hora de aprender</h1>
+    <NuxtLink to="/Home">pero pasa por la landing page</NuxtLink>
+  </main>
 </template>
