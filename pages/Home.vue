@@ -5,6 +5,7 @@
       </main>
       <footer>
           <Nuxt-link to="/contact">Habla conmigo</Nuxt-link>
+          <Nuxt-link to="/blog/my-firstblog">Vamos a aprender</Nuxt-link>
       </footer>
   </body>
 </template>

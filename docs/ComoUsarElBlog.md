@@ -50,3 +50,4 @@ cuando realizamos este comando un menu con diferentes opciones nos ira dando ind
 - [Estructura del proyecto](../docs/Structure.md)
 - [Comandos](../docs/Commands.md)
 - [Deploy](../docs/Deploy.md)
+- [Haciendo el Blog 📑](../docs/blog.md)
